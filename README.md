@@ -1,6 +1,6 @@
-# ViewPager & TabLayout Example
-Android Tabs Example with Fragments and ViewPager2
+# STT TTS
+Android UI
 
-![record](https://user-images.githubusercontent.com/56589369/118233090-242fae80-b49a-11eb-8c2b-d2507260199e.gif)
+![Screenshot_20230726_150459](https://github.com/Geryezy/Translatee/assets/137260782/f7c8bceb-4c06-45b7-a8a0-b353ef2391ac)
+![Screenshot_20230726_150502](https://github.com/Geryezy/Translatee/assets/137260782/8a09b6ed-0ef7-4d30-9ee3-ccc3709c5032)
 
-For detailed explanation, you can check the article on [Medium](https://medium.com/busoft/how-to-use-viewpager2-with-tablayout-in-android-eaf5b810ef7c).
